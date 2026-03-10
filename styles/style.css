@@ -8,9 +8,9 @@
 }
 :root {
   --bg-color: #000;
-  --second-bg-color: #101010;
+  --second-bg-color: #121313;
   --text-color: white;
-  --main-color: #174da7;
+  --main-color: #ff6044;
 }
 html {
   font-size: 60%;
@@ -53,7 +53,7 @@ a {
   transform: scale(1.1);
 }
 span {
-  background: linear-gradient(270deg, #00c3ff 10%, #174da7 100%);
+  background: linear-gradient(270deg, #e86f5a 10%, #ff6044 100%);
   background-clip: text;
   color: transparent;
 }
@@ -468,4 +468,5 @@ details ul {
   .contact form {
     flex-direction: column;
   }
+
 }
